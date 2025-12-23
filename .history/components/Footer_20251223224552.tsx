@@ -78,7 +78,7 @@ export const Footer: React.FC<FooterProps> = ({ onLegalClick }) => {
                   rel="noopener noreferrer" 
                   className="text-orange-500 hover:text-white transition-all underline underline-offset-8 decoration-orange-500/40 hover:decoration-white"
                 >
-                  GEMINI
+                  GEMINI (THE GOD)
                 </a>
               </p>
             </div>
