@@ -88,7 +88,7 @@ export const Footer: React.FC<FooterProps> = ({ onLegalClick }) => {
               <p className="text-[11px] text-white uppercase tracking-[0.3em] font-black">
                 ORCHESTRATED BY{' '}
                 <a 
-                  href="#" 
+                  href="" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="text-orange-500 hover:text-white transition-all underline underline-offset-8 decoration-orange-500/40 hover:decoration-white"
